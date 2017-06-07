@@ -26,6 +26,24 @@ A corporation may have one or more classes of members. If it does, the designati
 
 
 
+
+
+As the Association for Early Career Cancer Systems Biologists (AECCSB), we aim to support early-career researchers who participate in research related to cancer systems biology. We use the same criteria as the U.S. National Institutes of Health to define early-career (new investigator) status. Accordingly, we define an early-career researcher as someone who is within 10 years of completing their terminal research degree or their medical residency from an accredited academic research institution. However, we also include researchers who are currently pursuing a terminal research degree.
+ 
+Membership shall not be denied anyone based on criteria such as race, ethnicity, age, sex (including gender identity or sexual orientation), religion, or disability. We reserve the right to revoke membership of anyone who does not abide by the AECCSB's rules and regulations.
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ARTICLE IV
 
 Other lawful provisions, if any, for the conduct and regulation of the business and affairs of the corporation, for its voluntary dissolution, or for limiting, defining, or regulating the powers of the corporation, or of its directors or members, or of any class of members, are as follows:
@@ -43,14 +61,22 @@ Other lawful provisions, if any, for the conduct and regulation of the business 
 Notes: The preceding four (4) atricles are considered to be permanent and may only be changed by filing appropriate Articles of Amendment.
 
 
-ARTICLE V
+## ARTICLE V
+
 The by-laws of the corporation have been duly adopted and the initial directors, president, treasurer and clerk or other presiding, financial or recording officers, whose names are set out on the following page, have been duly elected.
-ARTICLE VI
+
+
+
+
+
+
+## ARTICLE VI
 
 The effective date of organization of the corporation shall be the date approved and filed by the Secretary of the Commonwealth. If a later effective date is desired, specify such date which shall not be more than thirty days after the date of filing. 
 
-   (mm/dd/yyyy)
-ARTICLE VII
+No later effective date is desired.
+
+## ARTICLE VII
 
 The information contained in Article VII is not a permanent part of the Articles of Organization.
 
@@ -89,8 +115,9 @@ No. and Street:
 City or Town:		State:  	Zip:  	Country:  
 Contact Phone:	  ext:   
  	 	 
-Contact Email:	 
+Contact Email: csb@asmlab.org
 
-Please provide an email address to receive an expedited response from the Corporations Division. 
-If the filing is rejected for any reason, you will be contacted. If no email address is provided, correspondence from the Division will be sent by mail.
+<!--Please provide an email address to receive an expedited response from the Corporations Division. 
+If the filing is rejected for any reason, you will be contacted. If no email address is provided, correspondence from the Division will be sent by mail.-->
+
 I/We, the below signed incorporator(s), do hereby certify under the pains and penalties of perjury that I/we have not been convicted of any crimes relating to alcohol or gaming within the past ten years. I/We do hereby further certify that to the best of my/our knowledge the above-named officers have not been similarly convicted. If so convicted, explain: 
