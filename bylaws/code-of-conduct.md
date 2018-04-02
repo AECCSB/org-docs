@@ -45,15 +45,22 @@ We encourage everyone to participate and are committed to building a community f
 
 Although this list cannot be exhaustive, we explicitly honor diversity in age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
+This statement is meant to cover all meeting-associated events and online spaces associated with the meeting, including Facebook, Twitter, and other online venues.
+
 ## Reporting Issues
 
-If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via <conduct@sacbmeeting.org>. All reports will be handled with discretion. In your report please include:
+**If you experience or witness unacceptable behavior—or have any other concerns—please report it by contacting us via <conduct@sacbmeeting.org>. All reports will be handled with discretion.** 
+
+In your report please include:
 
 - Your contact information.
 - Names (real, nicknames, or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well. Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public IRC logger), please include a link.
 - Any additional information that may be helpful.
 
-After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse.
+After filing a report, a representative will contact you personally, review the incident, follow up with any additional questions, and make a decision as to how to respond. We will respond in a timely manner and if you are not contacted within 12 hours of sending an e-mail, please talk to a member of the SACB organizing committee at the meeting to ensure that the message is received. **If you witness or experience behavior that constitutes an immediate and serious threat, please call 911 or the local police first.**
 
+If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse. 
 
-The [TODO Group Open Source Code of Conduct](http://todogroup.org/opencodeofconduct/) served as a starting point for this code of conduct, which was adapted.
+AECCSB takes any breach of professional conduct at the SACB meeting very seriously. In situations for which additional action is warranted, the AECCSB will cooperate fully with the appropriate authorities. Those who violate the standards of professional and respectful conduct may be asked to leave the meeting immediately and without refund, may not be considered for service on AECCSB boards and committees, and may be subject to additional legal action or reporting of behavior to their institutions for investigation.
+
+The [TODO Group Open Source Code of Conduct](http://todogroup.org/opencodeofconduct/) and [Safe and Inclusive Meetings from the American Meteorological Association](https://annual.ametsoc.org/2018/index.cfm/about/safe-and-inclusive-meetings/) served as starting points for this code of conduct, which was adapted.
