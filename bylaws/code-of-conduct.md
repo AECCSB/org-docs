@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This code of conduct outlines our expectations for participants within the AECCSB community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the ACSB community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
 Our community strives to:
 
@@ -61,6 +61,6 @@ After filing a report, a representative will contact you personally, review the 
 
 If the person who is harassing you is part of the response team, they will recuse themselves from handling your incident. If the complaint originates from a member of the response team, it will be handled by a different member of the response team. We will respect confidentiality requests for the purpose of protecting victims of abuse. 
 
-AECCSB takes any breach of professional conduct at the SACB meeting very seriously. In situations for which additional action is warranted, the AECCSB will cooperate fully with the appropriate authorities. Those who violate the standards of professional and respectful conduct may be asked to leave the meeting immediately and without refund, may not be considered for service on AECCSB boards and committees, and may be subject to additional legal action or reporting of behavior to their institutions for investigation.
+ACSB takes any breach of professional conduct at the SACB meeting very seriously. In situations for which additional action is warranted, the ACSB will cooperate fully with the appropriate authorities. Those who violate the standards of professional and respectful conduct may be asked to leave the meeting immediately and without refund, may not be considered for service on ACSB boards and committees, and may be subject to additional legal action or reporting of behavior to their institutions for investigation.
 
 The [TODO Group Open Source Code of Conduct](http://todogroup.org/opencodeofconduct/) and [Safe and Inclusive Meetings from the American Meteorological Association](https://annual.ametsoc.org/2018/index.cfm/about/safe-and-inclusive-meetings/) served as starting points for this code of conduct, which was adapted.
