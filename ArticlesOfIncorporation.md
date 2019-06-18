@@ -2,7 +2,7 @@
 
 #### 1. Corporate Name
 
-The name of the corporation is `Association of Early Career Systems Biologists, LLC`.
+The name of the corporation is `Association of Systems Biologists`.
 
 #### 2. Corporate Purpose
 
